@@ -1,0 +1,6 @@
+sign,value,unit,range
++,12.34,DC_V,40V
+-,1.234,AC_V,4V
++,123.4,DC_V,400V
++,0.123,DC_V,400mV
++,45.00,DC_V,40V
